@@ -1,0 +1,2 @@
+SERVER_ADDRESS = ""
+COMFY_UI_PATH = ""
